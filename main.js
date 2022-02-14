@@ -48,6 +48,6 @@ function draw(){
   background('#66b2ff');
   textSize(difference);
   fill('#FFFF00');
-  text('Bedantika',50,400);
+  text('Shradha',50,400);
 
 }
